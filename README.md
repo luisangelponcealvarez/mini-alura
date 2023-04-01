@@ -1,2 +1,9 @@
 # mini-alura
-Este es un sitio web donde aplico lo estudiado sobre flexbox
+
+## Este sitio web fue creado con html y css para practicar la habilidades de flexbox o adaptación de dispositivos 
+
+### Previsualización:
+![site_mini-alura](./img/miniatura.jpeg)
+
+### Visitar el sitio
+[sitio web](https://luisangelponcealvarez.github.io/mini-alura/)
